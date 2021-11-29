@@ -1,3 +1,6 @@
-Air landing page
-- [Design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
-- [Demo link](https://<your_account>.github.io/layout_dia/)
+# Air landing page
+Landing page for Air strategic agency
+- [DEMO](https://IrynaHerasymchuk.github.io/layout-air/) link
+- Technologies used: HTML5, CSS3, SCSS, JS, BEM methodology
+- Fully responsive layout made with CSS Grid and Flexbox
+- Click here to see the [design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
